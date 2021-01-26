@@ -1,0 +1,57 @@
+# Data Structures and Algorithms in Ruby Solutions
+
+- Weighted Graphs
+- The Full Counting Sort
+- Prepare for Full Counting Sort
+- Explorer Maze Escape
+- The Greatest Peaks
+- Simple Counting Sort
+- Counting Sort 1
+- Quick Sort Running Time
+- QuickSort1
+- Quick-Sort Advanced
+- Simple Quick Sort
+- Running Time
+- Insertion Sort Itself
+- Insertion Sort 1 
+- More Practice
+- Prime Prime
+- Prime Numbers
+- HashTables
+- Maps
+- Sets
+- Full Merge Sort
+- Minimum Spanning Tree
+- Shortest Path on a Weighted Graph
+- Find the Duplicates
+- The Median
+- Smallest Difference
+- Maximum Time Range
+- Index Match
+- Time Scheduler
+- Merge Sort 1
+- Stacks or Recursion
+- How Tall is the Tree?
+- Depth-First Search
+- Breadth-First Search
+- Find the Cycles
+- Connected Components
+- Is it balanced?
+- Is it a Search Tree?
+- Binary Search Tree
+- Graphs
+- Tree Traversal
+- Trees
+- Backtracking Recursion
+- Binary Search
+- Queue
+- Basic Recursion
+- Balanced Brackets
+- Sliding Maximum
+- Min Stack
+- Transposition
+- Towers of Hanoi - Part 1
+- Towers of Hanoi - Part 2
+- Stack
+- Linked List
+- Lists
